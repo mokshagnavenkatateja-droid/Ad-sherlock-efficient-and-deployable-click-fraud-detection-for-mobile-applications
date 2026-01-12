@@ -1,0 +1,2 @@
+# Ad-sherlock-efficient-and-deployable-click-fraud-detection-for-mobile-applications
+AdSherlock is a Java-based system for detecting click fraud in mobile ads. It analyzes click patterns to identify fake or automated clicks. The system uses real-time monitoring and data analysis to improve ad reliability. I implemented algorithms for fraud detection and optimized it for efficiency and deployment on mobile platforms.
